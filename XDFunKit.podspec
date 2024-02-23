@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/fei122603@outlook.com/XDFunKit'
+  s.homepage         = 'https://github.com/JsonF17/XDFunKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fei122603@outlook.com' => 'fei122603@outlook.com' }
-  s.source           = { :git => 'https://github.com/fei122603@outlook.com/XDFunKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/JsonF17/XDFunKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

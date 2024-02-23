@@ -7,13 +7,17 @@
 //
 
 import UIKit
+import XDFunKit
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+    
+//        detail.changeButtonTitle()
     }
+    
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

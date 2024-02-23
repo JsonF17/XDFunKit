@@ -1,0 +1,6 @@
+framework module XDFunKit {
+  umbrella header "XDFunKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
